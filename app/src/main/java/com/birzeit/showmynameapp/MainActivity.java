@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         editName = findViewById(R.id.edtName);
+        //this is a test comment
     }
 
     public void BtnShow_onClick(View view) {
